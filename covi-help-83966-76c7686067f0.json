@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "covi-help-83966",
+  "private_key_id": "76c7686067f0535c4ba2ffdf45a43ffc1d22b781",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsCkuyNMANAcSH\n6tuWBYC7HrFiYWSQFSYRoIcZPx/aBrOd9ZY4qpb/NTZWs3F1o/R1Zcd0nSpW+dKQ\nRbNTN6JrqCR3yw3ugb+QhArteGM99fIZy6tM1DOzVv+RmLwRetWS8B396++51bVF\nnC26fOVjaBzQxjGOY5kqwC30EFrC8VYrB7RBZ80tSq8O/tSHiLn+x6EdsL7D5z4R\neXZpI2WQSqeg8ttjeB+GCVO2atUFSgXe/lef9PDjACRtDX7XoY7pd2yhnFzmLny3\neK1HTdMbZP4nRPs3vR//L66Nc+5ZsFODRO56zBfLdzVZUzQaA8vnIUlkSAvfmLxB\n5aE63PpJAgMBAAECggEABZADqIxqFUGUYCyo0u30npg8dgjeHoaAh5tgIuHWns8O\nqbHSHJzvausGicEdjwcxFUaoL04Rm2RSeZW3WZ534vE51KG9HpQVZI/QZqM42j0E\nie765+4IiejrNILyucH1+91Fqvsg8ipFxS1qkRgOtqscG2f9HDR+NFKoabbJqHnl\nfYJsLojl2D8rO776dEfDFBjUk86UurwMcERLpriNXYSzFjV+dYT2FtxRsSum4Hxm\ni0gvjyxmcRwjdIx7UxDDOyIDcgKW8EBpV6uSA+2HAuLEsf+xs7vmpBGigvhJgGkc\nAWXuzRPo+n6jijdqu7k8BkREW/I8V2r6t/zog4sJDQKBgQDrOHAHZTOguSqJ61Fk\n9UyOA+q1cgaCrXTutdnjTtK88C7CqfUFFdh1F2kW6S+xa2/VhcGos3trpcNg6lut\nlMmRQPv7VsPy+3+G/7aJFlyhmCvrGVIw3uciCRkWU4s4Y+Ln8M7/mFPI1uR5UZ2V\n/qnSrCDNljGay08Hjfw6Hh80NwKBgQC7PQXkjzy0l0e2m2BVcdTVndlV6GoE1q9M\niofI3K0wpp/9Qk7SMapYLk4EzoS1KZWvXCtOOyDFNTGUrGHa+xIvr9J6WbNzmdFw\nsbpyiaxWjUblxzn8Edi5tNEOyk2nBBruWZDZntmtBM7lALUj8wEWKiyBGFCjYPbu\n8B77iQsFfwKBgHgaViGAjA753P2VGPdaxN8SoupIsYhR9w3X7sxAuBve65Fb5I7X\nK7IF5RPctwx5Vh4JcOup0VAS0KMQpwUHnrA7JS6di+nqfqA4u0ReFagxIeOmBzCK\n8CuRx6x9te1yGy7g52Dcr5MyHnDPuo4W/TFj0FAI64UlYFH0LqCiNr6bAoGBALYb\ncujKu5M1c8VSN47DKOsfHGvmoX7VQyghsFEW+MdRuFe9LyZWscQUPUOFjSMaMACf\nl2r+LTBBPVjJlF9ERHrm+cKQDe5IU6DU629NIbYIsET50RauUOjFyXMmJgJkBsF9\nkVlnm3UhMQ0f9A3j4lGpcSGaAYv12hWoq6mfr32HAoGBANkxT6269AT16RLjQrLU\nhgicqo/UqkV8uuicqaqotjIUQggVMPlXBNI7LBUUC3QgBbdlm6hUyELgSjHtnIE2\nEojfebMHqMyxqoc3Cc8330NP7uNuw2hWBqVseWOIBlvxPg58fEphOGpl2xM5AN8u\nTTVcqKPOpO/rUmoP2nvOL6dA\n-----END PRIVATE KEY-----\n",
+  "client_email": "covi-help-83966@appspot.gserviceaccount.com",
+  "client_id": "112526842479419235849",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/covi-help-83966%40appspot.gserviceaccount.com"
+}
